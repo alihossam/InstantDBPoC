@@ -6,9 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@instantdb/react": "^0.12.26",
     "next": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-svg-worldmap": "2.0.0-alpha.16"
   },
   "devDependencies": {
     "@types/node": "20.10.8",
